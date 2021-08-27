@@ -1,2 +1,2 @@
 # INF-451-Proyecto-Cubo
-Proyecto Computación Gráfica
+Proyecto Computación Gráfica (C++ Visual Studio)
